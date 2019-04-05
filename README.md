@@ -1,1 +1,3 @@
-# 206CDE - Real World Project - Autnomous Land Vehicle - Movement Controller
+# 206CDE - Real World Project
+
+Project Repository for Autonomous Land Vehicle's Movement Controller method.
